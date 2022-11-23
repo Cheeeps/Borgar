@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.main-font {
+  text-decoration: none;
+  font-family: 'Dancing Script', cursive;
+}
+.text-font{
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav-hover li a:hover {
+  transform: scale(1.1);
+  transition: .5s;
+}
+
+
+
+
+
+
+
+
